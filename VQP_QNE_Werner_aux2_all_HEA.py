@@ -1,4 +1,4 @@
-code/"""
+"""
 Unknown-Werner-state variational purification + QNE estimation of E_p
 =====================================================================
 
